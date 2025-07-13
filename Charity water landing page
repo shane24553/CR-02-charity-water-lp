@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Change a Life With Just $10</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="overlay">
+      <h1>Change a Life With Just $10</h1>
+      <p>100% of your gift brings clean water to real communities — because every human deserves safe water, and every student can help make that happen.</p>
+      <button class="cta">💧 Donate Now</button>
+    </div>
+  </header>
+
+  <section class="goal">
+    <h2>Goal: Raise awareness without guilt.</h2>
+    <p class="stats">771 million people don’t have access to clean water. That’s nearly 1 in 10 people on the planet.</p>
+    <p class="subtext">Impact + Transparency: Build trust with stats and clear evidence.</p>
+    <ul>
+      <li>🌍 1,000+ projects funded by students</li>
+      <li>📍 Serving 29 countries</li>
+      <li>📡 Every donation geo-tracked and reported back</li>
+    </ul>
+  </section>
+
+  <section class="solution">
+    <div class="left">
+      <h3>Solution</h3>
+      <p>The solution is very simple — show how charity: water makes real change.</p>
+    </div>
+    <div class="right">
+      <blockquote>“We build sustainable water solutions in the world’s most water-stressed communities — and we send 100% of donations directly to projects.”</blockquote>
+    </div>
+  </section>
+
+  <section class="why-now">
+    <h3>Why You / Why Now</h3>
+    <p>You don’t need to be rich or famous to make change. College students around the world are already stepping up — starting with just $10.</p>
+  </section>
+
+  <section class="get-involved">
+    <h3>“Be the ripple that starts the wave.”</h3>
+    <div class="actions">
+      <div>
+        <h4>Donate</h4>
+        <p>No matter the amount, your donation will make a big difference.</p>
+        <button>Donate</button>
+      </div>
+      <div>
+        <h4>Volunteer</h4>
+        <p>Join our community outreach and awareness campaigns.</p>
+        <button>Sign up</button>
+      </div>
+      <div>
+        <h4>Spread the word</h4>
+        <p>Help us spread advocacy to your friends, family, and colleagues.</p>
+        <button>Share page</button>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <h4>Contact us</h4>
+    <p>📞 (123) 456-7890</p>
+    <p>📧 charityproject.com</p>
+    <p>📍 7150 Fulton Avenue, North Hollywood, CA</p>
+    <p>🔗 Social: 
+      <a href="#">Facebook</a> | 
+      <a href="#">Instagram</a>
+    </p>
+  </footer>
+</body>
+</html>
